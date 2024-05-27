@@ -9,6 +9,10 @@
 
 We are developing a responsive landing page for internal use within Osumare Marketing Solutions. The goal is to ensure the webpage is fully responsive and functions flawlessly across various devices and screen sizes. The project needs to be completed within a tight timeline of two days.
 
+## Deploy Link
+
+For detailed Deploy Link, please refer to [Deploy Link](https://osumare-marketing-solutions-assignment-1.onrender.com/).
+
 ## Assignment Details
 
 ### Task
