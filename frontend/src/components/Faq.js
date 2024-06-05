@@ -11,6 +11,7 @@ const FaqContainer = styled.div`
   max-height: 1719px;
   margin: 0 auto;
   margin-bottom: 50px;
+  margin-top: 50px;
   padding: 0 20px 0 30px;
 `;
 const TextContainer = styled.div`
